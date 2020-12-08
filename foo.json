@@ -1,0 +1,11 @@
+{
+  "uid": "d4ea0620-36be-44a3-a36a-6d697241e990",
+  "accountUid": "581a091f-7203-4f07-82ae-e6d6abec4361",
+  "codeNr": "Salg av fisk",
+  "name": "Salg av fisk",
+  "description": null,
+  "lottProcessType": 1,
+  "pctVat": 0,
+  "transactionChecksumType": 1,
+  "isActiv": true
+}

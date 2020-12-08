@@ -12,10 +12,10 @@ let checksumType = [
 ];
 
 
-let f = new Map()
+let lottStatesMap = new Map()
 
 for (let x of lottStates) {
-  f.set(x.value, x.name)
+  lottStatesMap.set(x.value, x.name)
 }
 
 console.log(f.get(-1))
