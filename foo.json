@@ -1,11 +1,9 @@
 {
-  "uid": "d4ea0620-36be-44a3-a36a-6d697241e990",
-  "accountUid": "581a091f-7203-4f07-82ae-e6d6abec4361",
-  "codeNr": "Salg av fisk",
-  "name": "Salg av fisk",
-  "description": null,
-  "lottProcessType": 1,
-  "pctVat": 0,
-  "transactionChecksumType": 1,
-  "isActiv": true
+  "id": "kode 2",
+  "uid": "34cf836a-7068-41ea-96b0-effa24ad132a",
+  "name": "knavnet 2",
+  "type": "account",
+  "acctHierarchy": ["kode 2"],
+  "active": true,
+  "description": ""
 }

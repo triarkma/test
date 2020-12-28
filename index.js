@@ -11,14 +11,26 @@ let checksumType = [
   { name: "+", value: 1 },
 ];
 
+const LottProcessType = [
+  [-1, 'Negativ'],
+  [0, 'Ingen påvirkning'],
+  [1, 'Positiv']
+];
 
-let lottStatesMap = new Map()
+let x = LottProcessType
+
+console.log(x)
+
+
+
+
+let f = new Map()
 
 for (let x of lottStates) {
-  lottStatesMap.set(x.value, x.name)
+  f.set(x.value, x.name)
 }
 
-console.log(f.get(-1))
+console.log(f.get('Fratrekk'))
 console.log(f.get(0))
 console.log(f.get(1))
 
